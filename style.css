@@ -12,3 +12,9 @@ body{
   color: white;
   font-family: 'Marcellus SC', serif;
 }
+.img-style {
+  border: 1px solid gray;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}

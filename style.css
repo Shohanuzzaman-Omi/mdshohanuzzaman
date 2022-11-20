@@ -12,9 +12,32 @@ body{
   color: white;
   font-family: 'Marcellus SC', serif;
 }
+
+.big-scr{
+  background: none;
+}
+
 .img-style {
-  border: 1px solid gray;
+  border: 1px solid lightgrey;
   border-radius: 4px;
   padding: 5px;
-  width: 150px;
+}
+.banner-item{
+  display: none;
+}
+
+@media (max-width: 600px) {
+  
+  .banner-img{
+    display: none;
+  }
+
+  .banner-item{
+    display: contents;
+    align-items: center;
+    justify-content: center;
+  }
+  .big-scr{
+    background: none;
+  }
 }

@@ -10,7 +10,8 @@
   border-radius: 5px;
 }
 body{
-  background-color: rgb(20, 20, 20);
+  background: rgb(22,13,13);
+  background: linear-gradient(267deg, rgba(22,13,13,1) 0%, rgb(24, 24, 24) 75%);
   color: white;
   font-family: 'Marcellus SC', serif;
 }
@@ -26,7 +27,7 @@ body{
 .img-style {
   border: 1px solid lightgrey;
   border-radius: 4px;
-  padding: 5px;
+  padding: 5px; 
 }
 .banner-item{
   display: none;

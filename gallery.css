@@ -7,6 +7,10 @@
   text-align: center;
   padding:15px;
 }
+.img-sec{
+  background: rgb(22,13,13);
+  background: linear-gradient(0deg, rgba(22,13,13,1) 0%, rgba(122,0,0,1) 50%, rgba(22,13,13,1) 100%);
+}
 .container .image-container{
   columns:3 250px;
   gap:15px;

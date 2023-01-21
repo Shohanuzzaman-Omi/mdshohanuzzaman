@@ -1,0 +1,15 @@
+.abtn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 25%;
+}
+.txt {
+  text-decoration: none;
+  border: 2px solid tomato;
+  border-radius: 5px;
+  padding: 5px 10px;
+  font-weight: bold;
+  background-color: tomato;
+  color: black;
+}
